@@ -49,5 +49,13 @@ Buyer Persona es la representación ficticia de tu cliente ideal. Está basada e
 
 A continuación se presenta el buyer persona de Abogabot.
 ![alt tag](https://raw.githubusercontent.com/EzeRodriguez92/Abogabot/main/Buyer%20Persona.jpg)
-##  4. Público Objetivo 
-##  5. UX/UI.
+##  4. Público Objetivo.
+Es el cliente potencial del servicio que se está ofreciendo en el aplicativo web. Las personas seleccionadas reunen características generales de individuos que consumen o necesitan servicios relacionados al ofrecido.
+
+##  5. Diseño UX.
+El user experiencie o experiencia de usuario es la experiencia que tendrá el usuario al interactuar con la aplicación. Básicamente es cómo una persona se sentirá mientras usa el aplicativo desarrollado y qué tan fácil o cómodo será.
+
+##  6. Diseño UI.
+
+
+
