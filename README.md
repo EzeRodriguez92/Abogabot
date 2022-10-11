@@ -43,8 +43,10 @@ Como Usuario requiere tener una página responsive para poder verla desde difere
 Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso de que ya tenga una en la plataforma web.
 
 ##  2. Diagrama de flujo.
-https://miro.com/app/board/uXjVPOlI_xM=/?share_link_id=463845560856
-
+![alt tag](https://raw.githubusercontent.com/EzeRodriguez92/Abogabot/939260963a7fe05b648b73da0bacf2f9d7195cc7/Abogabot-%20Diagrama%20de%20flujo.jpg)
 ##  3. Buyer Persona.
+Buyer Persona es la representación ficticia de tu cliente ideal. Está basada en datos reales sobre el comportamiento y las características demográficas de tus clientes, así como en una creación de sus historias personales, motivaciones, objetivos, retos y preocupaciones
 
+A continuación se presenta el buyer persona de Abogabot.
+![alt tag](https://raw.githubusercontent.com/EzeRodriguez92/Abogabot/main/Buyer%20Persona.jpg)
 ##  4. UX/UI.
