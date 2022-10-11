@@ -49,4 +49,5 @@ Buyer Persona es la representación ficticia de tu cliente ideal. Está basada e
 
 A continuación se presenta el buyer persona de Abogabot.
 ![alt tag](https://raw.githubusercontent.com/EzeRodriguez92/Abogabot/main/Buyer%20Persona.jpg)
-##  4. UX/UI.
+##  4. Público Objetivo 
+##  5. UX/UI.
