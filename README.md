@@ -43,7 +43,7 @@ Como Usuario requiere tener una página responsive para poder verla desde difere
 Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso de que ya tenga una en la plataforma web.
 
 ##  2. Diagrama de flujo.
-
+https://miro.com/app/board/uXjVPOlI_xM=/?share_link_id=463845560856
 
 ##  3. Buyer Persona.
 
